@@ -44,5 +44,6 @@ alert(result);
 * Courses: 
     + WAYUP - "Web host. Start"
     + WAYUP  - "Javascript. Diving"
+***
 ## ***ENGLISH***
 ### Intermediate (B1)
