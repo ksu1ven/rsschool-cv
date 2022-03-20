@@ -8,8 +8,8 @@
 
 ###  ***Location: Minsk, Belarus***
 ### ***Phone: +375 (29) 121-93-46***
-### ***Telegram: https://t.me/ksu1ven***
-### ***GitHub: https://github.com/ksu1ven***
+### ***Telegram: [https://t.me/ksu1ven](https://t.me/ksu1ven)***
+### ***GitHub: [https://github.com/ksu1ven](https://github.com/ksu1ven)***
 ### ***E-mail: ksu1ven@mail.ru***
 
 ****
