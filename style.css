@@ -1,0 +1,39 @@
+body{
+	width: 1330px;
+	font-size: 12px;
+}
+img {
+	width:110px;
+}
+h1	{
+	color: red;
+	font-size: 24px;
+}
+.one {
+	color: white;
+	font-size: 12px;
+	background: blue;
+	width: 80px;
+	padding-top: 1px;
+	box-sizing: content-box;
+	margin-bottom: 80px;
+}
+span {color: red;}
+h2 {
+	background: green;
+	color: white;
+	padding: 4px;
+	font-size: 20px;
+}
+.two {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-left: 40px;
+}
+.three {
+	padding-left: 100px;
+}
+li {
+	font-size: 18px;
+	border: 2px solid black;
+}
